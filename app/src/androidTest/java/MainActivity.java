@@ -9,7 +9,10 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import java.util.ArrayList;
+/*
+        Declaration of the contacts
 
+*/
 public class MainActivity extends AppCompatActivity {
 
     ArrayList<Contacto> contactos;
